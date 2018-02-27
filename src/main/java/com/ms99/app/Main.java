@@ -27,7 +27,6 @@ public class Main {
         System.out.println(refers.size());
 
         driver.quit();
-
     }
 
     public static WebDriver initChromeDriver() {
